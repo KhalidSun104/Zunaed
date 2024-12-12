@@ -1,0 +1,16 @@
+com.example/
+      Application.java
+      models/
+          User.java
+          Manager.java
+          Mechanic.java
+          Customer.java
+          Vehicle.java
+          Task.java
+      services/
+          NotificationSystem.java
+          TaskAllocationManager.java
+      exceptions/
+          VehicleNotFoundException.java
+tests/
+   com.baymotors/
